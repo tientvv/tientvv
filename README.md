@@ -1,3 +1,3 @@
 # Hi there , I'm Tien 👋
 
-I'm still a software engineer.
+I haven't coded for about 3 or 4 months in 2025, but yeah, I'm still a Software Engineer.
