@@ -10,12 +10,11 @@ Here are the products I have:
 ## Technical Skills
 
 ### Programming Languages
-- JavaScript, TypeScript, Python, SQL
-- C++
+- JavaScript, TypeScript, Python, C++
 
 ### Frameworks / Platforms
-- Angular, ReactJS, Next.js
-- Node.js, Express.js, NestJS
+- Angular
+- Node.js, NestJS
 - ES6+, Webpack, Babel, Vite
 - Prisma
 - PyTorch, TensorFlow, scikit-learn
