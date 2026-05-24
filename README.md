@@ -1,26 +1,41 @@
 ## Hi there 👋, I'm Ney.
 
-I'm a software developer.
+I'm a software engineering
+- Full Stack Developer
+- AI Engineer
 
 Here are the products I have:
-<a href="https://movielix.neytrix.app/" target="_blank">Watch Movies</a>
+<p><a href="https://movielix.neytrix.app/" target="_blank">Watch Movies</a></p>
 
-## Tech Stack
+## Technical Skills
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,ts" />
-</p>
+### Programming Languages
+- JavaScript, TypeScript, Python, SQL
+- C++
 
-### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react" />
-</p>
+### Frameworks / Platforms
+- Angular, ReactJS, Next.js
+- Node.js, Express.js, NestJS
+- ES6+, Webpack, Babel, Vite
+- Prisma
+- PyTorch, TensorFlow, scikit-learn
+- Hugging Face Transformers, LangChain, FastAPI
+- NumPy, Pandas, OpenCV
+- Android, ARCore, OpenXR, MediaPipe, ONNX
+- Bootstrap, Tailwind CSS
+- Docker, Kubernetes, CI/CD
+- RESTful API, WebSocket, gRPC
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
-</p>
+### Database Management Systems
+- PostgreSQL, MS SQL Server, MySQL
+- MongoDB, Redis
+- FAISS, ChromaDB
+
+### Version Control
+- Git, TFS, SVN
+
+### Foreign Languages
+- IELTS: 7.5
 
 ---
 
