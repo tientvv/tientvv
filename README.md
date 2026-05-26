@@ -13,7 +13,7 @@ Here are the products I have:
 - JavaScript, TypeScript, Python, C++
 
 ### Frameworks / Platforms
-- Angular
+- Angular, Vue.js
 - Node.js, NestJS
 - ES6+, Webpack, Babel, Vite
 - Prisma
