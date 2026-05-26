@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ney.
 
-I'm a software engineering
+My major's a software engineering
 - Full Stack Developer
 - AI Engineer
 
