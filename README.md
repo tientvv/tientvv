@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ney.
 
 My major's a software engineering
-- Full Stack Developer, Middle Angular Developer
+- Full Stack Developer
 - AI Engineer
 
 Here are the products I have:
