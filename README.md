@@ -2,7 +2,6 @@
 
 My major's a software development
 - Full Stack Developer
-- AI Engineer
 
 Here are the products I have:
 <p><a href="https://movielix.neytrix.app/" target="_blank">Watch Movies</a></p>
