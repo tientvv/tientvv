@@ -33,9 +33,6 @@ Here are the products I have:
 ### Version Control
 - Git, TFS, SVN
 
-### Foreign Languages
-- IELTS: 7.5
-
 ---
 
 Besides coding, I enjoy writing blogs and I'm currently a student.  
