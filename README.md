@@ -4,7 +4,7 @@ My major's a software development
 - Full Stack Developer, Mobile Developer
 - AI Engineer
 
-### Programming Languages
+Programming Languages
 - JavaScript, TypeScript, Python, C++
 
 Besides coding, I enjoy writing blogs and I'm currently a student.  
