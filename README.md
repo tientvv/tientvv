@@ -1,4 +1,4 @@
-## I'm Tien
+## Hi there👋, I'm Tien
 
 My major's a software development
 - Full Stack Developer, Mobile Developer
