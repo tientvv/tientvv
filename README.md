@@ -6,5 +6,5 @@
 
 **Education**
 -
-- Bachelor's Degree in Artificial Intelligence - FPT University
+- Bachelor's Degree in Artificial Intelligence - FPT University (2030)
 - Associate Degree in Software Engineering (2025)
